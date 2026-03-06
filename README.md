@@ -65,4 +65,4 @@ Random seeds are fixed for reproducibility.
 
 3. Install dependencies: pip install -r requirements.txt
 
-4. Run: python word2vec_numpy.py
+4. Run: python Word2vec.py
